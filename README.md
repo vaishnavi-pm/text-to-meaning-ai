@@ -1,13 +1,8 @@
 ---
 title: Practices02
-emoji: 📉
-colorFrom: purple
-colorTo: yellow
-sdk: gradio
-sdk_version: 6.19.0
-python_version: '3.13'
-app_file: app.py
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: docker
 pinned: false
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
